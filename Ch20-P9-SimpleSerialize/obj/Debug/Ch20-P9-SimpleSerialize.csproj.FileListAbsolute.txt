@@ -1,0 +1,7 @@
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P9-SimpleSerialize\Ch20-P9-SimpleSerialize\bin\Debug\Ch20-P9-SimpleSerialize.exe.config
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P9-SimpleSerialize\Ch20-P9-SimpleSerialize\bin\Debug\Ch20-P9-SimpleSerialize.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P9-SimpleSerialize\Ch20-P9-SimpleSerialize\bin\Debug\Ch20-P9-SimpleSerialize.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P9-SimpleSerialize\Ch20-P9-SimpleSerialize\obj\Debug\Ch20-P9-SimpleSerialize.csprojAssemblyReference.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P9-SimpleSerialize\Ch20-P9-SimpleSerialize\obj\Debug\Ch20-P9-SimpleSerialize.csproj.CoreCompileInputs.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P9-SimpleSerialize\Ch20-P9-SimpleSerialize\obj\Debug\Ch20-P9-SimpleSerialize.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P9-SimpleSerialize\Ch20-P9-SimpleSerialize\obj\Debug\Ch20-P9-SimpleSerialize.pdb
