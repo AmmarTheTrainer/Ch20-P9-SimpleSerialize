@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Runtime.Serialization.Formatters.Binary;
@@ -25,6 +26,9 @@ namespace Ch20_P9_SimpleSerialize
             {
                 binFormat.Serialize(fStream, userData);
             }
+
+            //Stopwatch
+
             Console.ReadLine();
         }
     }
